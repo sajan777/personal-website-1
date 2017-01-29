@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<title>sajanarora</title>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Barrio" rel="stylesheet"> 
+<link href="https://fonts</head>
+<body>
+<header>
+<h1>GAMER'S DEN</h1>
+<H2>GAMER'S NEVER DIE THEY JUST GO OFFLINE!<H2>
+<ul>
+<li><a href="#">WALKTHROUGH</a></li>
+<li><a href="#">INSTALLATION GUIDE</a></li>
+<li><a href="#">REVIEWS</a></li>
+<li><a href="#">JOIN US</a></li>
+</br><h3>we provide latest of all high definition ps3,ps4,xbox,pc & android games free after our 1st subscription download iso or zip files!</h3>
+</ul>
+</header>
+<div class="first">
+<p><B>PS4 & PS3 GAMES </B><span class="price">subscrsibe-20$<br /> </span><br />
+ UNCHARTED,BIOHAZARD, BLOODBORNE, WITCHER 3, BATTLEFIELD 1  & many more <b>DOWNLOAD NOW.</B></p>
+</div>
+<div class="second">
+<p><B>XBOX & XBOX 360 GAMES</B><span class="price">subscribe-$22</span><br />
+GTA V ,ELDER SCROLLS V SKYRIM,    OVERWATCH, GEARS OF WAR 4  & many more <b>DOWNLAOD NOW</b></p>
+</div>
+<div class="third">
+<p><B>PC & ANDROID GAMES</B><span class="price">subscribe-15$</span><br />
+HALF LIFE, DARK SOULS 3, BATMAN ARKHAM CITY, ASSASSINS CREED UNITY, FAR CRY 3  & many more <B>DOWNLOAD NOW</B></p>
+</div>
+</body>
+<script>
+  $('div').on('click', function() {
+      $(this).toggleClass('show-description');
+  });
+</script>
+
+</body>
+.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
